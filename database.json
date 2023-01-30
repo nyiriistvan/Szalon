@@ -1,0 +1,19 @@
+{
+    "vehicles":[
+        {
+            "licenseplate": "AA-CA-381",
+            "brand":"Skoda",
+            "price":3500
+        },
+        {
+            "licenseplate": "AA-CA-382",
+            "brand":"Bugatti",
+            "price":7800
+        },
+        {
+            "licenseplate": "AA-CA-383",
+            "brand":"Volkwagen",
+            "price":4500
+        }
+    ]
+}
