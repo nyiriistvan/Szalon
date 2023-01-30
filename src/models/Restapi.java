@@ -1,3 +1,11 @@
+/*
+ * File: Restapi.java
+ * Created Date: 2023-01-30
+ * Author: Nyiri István
+ * Github: https://github.com/nyiriistvan
+ *GNU GPL v2
+ */
+
 package models;
 
 import java.io.IOException;
